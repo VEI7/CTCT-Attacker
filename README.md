@@ -1,2 +1,2 @@
 # CTCT-Attacker
-CTCT-Attacker CTCT攻击队
+电信安全攻击队 CTCT-Attacker CTCT攻击队
